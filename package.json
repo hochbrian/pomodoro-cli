@@ -1,0 +1,23 @@
+{
+  "name": "pomodoro",
+  "version": "1.0.0",
+  "description": "Command-line pomodoro timer",
+  "main": "pomodoro.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pomodoro-cli"
+  },
+  "keywords": [
+    "pomodoro",
+    "cli"
+  ],
+  "author": "Brian E Hoch",
+  "license": "ISC",
+  "dependencies": {
+    "ansi-colors": "^4.1.3",
+    "cli-progress": "^3.12.0"
+  }
+}
