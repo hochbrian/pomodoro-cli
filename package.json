@@ -5,7 +5,7 @@
   "main": "pomodoro.js",
   "types": "index.d.ts",
   "scripts": {
-    "run": "ts-node pomodoro.ts",
+    "start": "ts-node pomodoro.ts",
     "test": "test"
   },
   "repository": {
