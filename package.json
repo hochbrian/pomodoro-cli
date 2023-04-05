@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Command-line pomodoro timer",
   "main": "pomodoro.js",
+  "types": "index.d.ts",
   "scripts": {
+    "run": "ts-node pomodoro.ts",
     "test": "test"
   },
   "repository": {
@@ -18,6 +20,7 @@
   "license": "ISC",
   "dependencies": {
     "ansi-colors": "^4.1.3",
-    "cli-progress": "^3.12.0"
+    "cli-progress": "^3.12.0",
+    "ts-node": "^10.9.1"
   }
 }
