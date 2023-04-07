@@ -1,0 +1,1 @@
+A configurable command-line pomodoro timer.
