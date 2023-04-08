@@ -1,4 +1,8 @@
-import { g, gy, rBt, r } from './colorize'
+/*
+    Tomato ascii art source: https://textart.sh/topic/tomato
+*/
+
+import { g, gy, rBt, r } from './format'
 const width: number = 98
 
 export const padFront = (spaces: number, start: number = 0) => {
